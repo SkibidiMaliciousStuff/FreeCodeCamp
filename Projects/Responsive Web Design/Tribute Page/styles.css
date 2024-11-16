@@ -1,0 +1,19 @@
+input,select,textarea{
+  display:block;
+  margin:10em auto;
+}
+input[name="skibichill"],input[type="checkbox"]{
+  margin:unset;
+}
+textarea{
+  resize:vertical;
+}
+a:link{
+  color:yellow;
+}
+a:visited{
+  color:white;
+}
+a:hover{
+ color:red;
+}
